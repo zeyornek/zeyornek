@@ -2,7 +2,7 @@
 - 👀 I’m interested in RPA
 - 🌱 I’m currently learning UiPath, Python, SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me via linkedin.com/zekiye-ornek
 
 <!---
 zeyornek/zeyornek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
